@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "EjemploHerencia02/HerenciaUno/src/paquete5",
+        "EjemploHerencia02/HerenciaUno/src/paquete4",
+        "EjemploHerencia02/HerenciaUno/src/paquete3",
+        "EjemploHerencia01/HerenciaUno/src",
+        "EjemploHerencia02/HerenciaUno/src/paquete6"
+    ]
+}
